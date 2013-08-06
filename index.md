@@ -14,7 +14,8 @@ This is my blog. There are many more like it, but this one is mine. If you want 
     {{ post.title }}
   </h3>
     <div style="margin-left:1em;">{{ post.excerpt }}
-    <a href="{{ BASE_PATH }}{{ post.url }}">Read more</a></div>
+    <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
+    <hr />
   {% endfor %}
 </div>
 
