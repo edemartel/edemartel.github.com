@@ -17,7 +17,6 @@ I realize this is pretty bare bones right now. Bear with me as I learn the ropes
   </h3>
     <div style="margin-left:1em;">{{ post.excerpt }}
     <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
-    <hr />
   {% endfor %}
 </div>
 
