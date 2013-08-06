@@ -12,7 +12,7 @@ I'm Etienne de Martel, tool programmer at [Ludia](http://ludia.com/), Montreal i
 
 <div class="sidebar">
 	<a href="http://stackoverflow.com/users/71141/etienne-de-martel">
-		<img src="http://stackoverflow.com/users/flair/71141.png" width="208" height="58" alt="profile for Etienne de Martel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Etienne de Martel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+		<img src="http://stackoverflow.com/users/flair/71141.png?theme=dark" width="208" height="58" alt="profile for Etienne de Martel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Etienne de Martel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 	</a>
 </div>
 
@@ -20,4 +20,4 @@ As you can see on the right, I'm a fairly good contributor to [Stack Overflow](h
 
 I'm also [@edemartel](http://twitter.com/edemartel) on Twitter, believe it or not. Feel free to follow me. Or not. It's up to you. I mostly just retweet stuff from more interesting people anyway.
 
-Also, Rainbow Dash is best pony. Deal with it.
+Also, Rainbow Dash is best pony. [Deal with it](http://www.youtube.com/watch?v=omFG-MHqWw4).
