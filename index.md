@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome!
+title: Delirium Corp
+tagline: A variety of ramblings on a variety of subjects
 ---
 {% include JB/setup %}
 

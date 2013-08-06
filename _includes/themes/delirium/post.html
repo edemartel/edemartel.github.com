@@ -10,10 +10,10 @@
     <div class="content">
       {{ content }}
     </div>
-
+  <hr />
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
-      <li><i class="icon-folder-open"></i></li>
+      <li>category</li>
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
@@ -21,7 +21,7 @@
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
-      <li><i class="icon-tags"></i></li>
+      <li>tags</li>
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
@@ -43,7 +43,8 @@
       {% endif %}
       </ul>
     </div>
-    <hr>
+    <hr />
+    <div style="text-align:center;">Comments are currently disabled until I find a non evil provider.</div>
     {% include JB/comments %}
   </div>
 </div>
