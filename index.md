@@ -12,11 +12,11 @@ I realize this is pretty bare bones right now. Bear with me as I learn the ropes
 <div class="posts">
   {% for post in site.posts %}
   <h3 style="line-height:32px">
-    <small>{{ post.date | date_to_string }}</small><br />
+    <small>{{ post.date | date_to_string }} // {{ post.category }}</small><br />
     {{ post.title }}
   </h3>
     <div style="margin-left:1em;">{{ post.excerpt }}
-    <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
+    <a href="{{ BASE_PATH }}{{ post.url }}">&raquo; Read more...</a></div>
   {% endfor %}
 </div>
 
