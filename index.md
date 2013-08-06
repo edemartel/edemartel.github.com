@@ -5,6 +5,8 @@ title: Welcome!
 {% include JB/setup %}
 
 This is my blog. There are many more like it, but this one is mine. If you want to know more about me, check out the [about](about.html) page. Otherwise, [kick back, relax, take a load off your mind](http://www.youtube.com/watch?v=BxHNztg0X3s).
+
+I realize this is pretty bare bones right now. Bear with me as I learn the ropes about Jekyll.
 <hr />
 
 <div class="posts">
