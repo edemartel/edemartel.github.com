@@ -3,7 +3,7 @@ layout: post
 title: "On the subject of overpowered strategies"
 description: "Someone is wrong on the Internet"
 category: on the subject of
-tags: [lol sc2 otso]
+tags: [lol, sc2, otso]
 ---
 {% include JB/setup %}
 
