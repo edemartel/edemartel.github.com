@@ -18,10 +18,10 @@ Let's look at Katarina and Nidalee, two of _League of Legends_' champions (click
 	<a href="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg"><img style="width:350px; height:auto;" src="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg" alt="Katarina, the Bestial Huntress" /></a>
 </div>
 
-What do you notice? Nothing? How about Sona and Miss Fortune?
+What do you notice? Nothing? How about Ahri and Miss Fortune?
 
 <div style="text-align:center;margin-bottom:1em;">
-	<a href="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg"><img style="width:350px; height:auto;" src="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg" alt="Sona, the Maven of Strings" /></a>
+	<a href="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"><img style="width:350px; height:auto;" src="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg" alt="Sona, the Nine-Tailed Fox" /></a>
 	<a href="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg"><img style="width:350px; height:auto;" src="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg" alt="Miss Fortune, the Bounty Hunter" /></a>
 </div>
 
