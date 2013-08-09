@@ -2,6 +2,7 @@
 layout: page
 title: About
 header: About me
+tagline: Because you really want to know me
 group: navigation
 ---
 {% include JB/setup %}
