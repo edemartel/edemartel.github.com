@@ -45,6 +45,6 @@ Although we're still not out of the woods yet. I came across [_Smite_](https://a
 
 ### Bring the women!
 
-I still believe there are not enough women playing non casual games. And maybe we should stop making games like men are the only thing in existence. I'm not saying we should make all the female characters ugly, but simply that perhaps we should think more about the consequences of a specific art design on the message that the game is sending. Now, of course, having more _inclusive_ games won't be enough to attract the female gamers. After all, there's still the [douchebag problem](http://fatuglyorslutty.com/), which I have no idea how to fix. I don't think there's an actual solution to that one. At least their behavior is no longer encouraged. Except on Reddit. But Reddit is the scum of the Web, so that's to be expected. But we still have to do something, because otherwise the hardcore gaming scene will remain a sausage fest. But that's a subject for another article (because this one is getting long winded).
+I still believe there are not enough women playing non casual games, and I guess that maybe thinking about them when designing a game is a step in the right direction. But that's a subject for another article (because this one is getting long winded).
 
 So, yeah. Don't whine about the tits, just carry harder. Preferably with a female champion. But stay polite, and don't act like a douchebag.
