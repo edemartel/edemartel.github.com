@@ -41,6 +41,8 @@ That brings me to that article I was talking about earler. It's [up on Gamasutra
 
 As a whole, that kind of art direction is becoming rarer.  I mean, sure, we still have things like [_Dragon's Crown_'s sorceress](http://images.pushsquare.com/news/2013/04/saucy_sorceress_trailer_deployed_for_ps3_and_vita_brawler_dragons_crown/attachment/0/large.jpg), but it's mostly an exception nowadays (and anyway, Japan isn't known for its forward treatment of women), mostly because of games becoming more realistic (for most AAAs anyway), as well as the result of the medium both hitting the mainstream and maturing as an art form (and therefore no longer required to pander to horny teenage boys). Even the boobaliscious female type is no longer the norm at Riot (for instance, the two most recent female characters are [Lissandra](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg) and [Quinn](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg)). I guess being the most played game in the world will do that to your art design.
 
+I guess what I'm saying is that huge tits are too cliché.
+
 Although we're still not out of the woods yet. I came across [_Smite_](https://account.hirezstudios.com/smitegame/) recently, and I was a bit disappointed to see that it was still about buff dudes and busty chicks killing each other (to be fair, since the characters are all gods, it's somewhat makes sense). Come on guys, I know you can do better than that. Kudos for the third person camera angle, though. Looks cool.
 
 ### Bring the women!
