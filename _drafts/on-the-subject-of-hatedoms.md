@@ -1,0 +1,34 @@
+---
+layout: post
+title: "On the subject of hatedoms"
+description: "Or why it's hard to be a hater"
+category: On the subject of
+tags: [otso, mlp, toxic]
+---
+{% include JB/setup %}
+
+So, there's something that fascinates me, and it's toxicity on the Internet (in this context, rude behavior, I'm not talking about downloading a System of a Down album). Since `/r/bronyhate/` got banned recently, I figured I could start with the subject of hatedoms, which are communities built around hating a particular work (such as a musical band, a film, a game, a television series, etc.), using _My Little Pony: Friendship is Magic_ as an example.
+
+<!-- more -->
+
+So, as a few of you probably know, a _brony_ is an adult (and usually male) fan of _My Little Pony_ (also known as MLP). Although the term is technically used to refers to fans of the entire franchise, most bronies became so with _Friendship is Magic_ (aka FIM), and don't care much about the toyline, so it's acceptable to consider a brony a fan of FIM and not MLP as a whole. Now, full disclosure, I consider myself a brony. I'll try to remain as objective as possible, but a few biases are probably going to slip by. Apologies in advance, and keep your salt ready, just in case.
+
+Bronies have the (largely deserved) reputation to be rather... _evangelical_ about the show, with some of them being quite aggressive in their promotion. This has led discussions of the series to be banned in many online communities because of how distruptive they are. Because of this, many people have become quite critical of bronies as a whole. Which makes sense: how would you feel if someone tried to shove pastel colored equines down your throat? You'd have all the rights in the world to be pissed.
+
+### Meet the anti bronies
+
+Now, this being the Internet, where trolls thrive, a few of the aformentionned pissed off people decided to focus their frustrations on creating hateful content targeting MLP. And they built entire communities of such haters, where they share said content, thus creating some sort of darker version of the brony online communities. One such group was the above `/r/bronyhate`, which got banned. I don't know about the details, but from what I've heard, they tried to "raid" (that is, organize vandalism) an MLP subreddit (likely `/r/MyLittleSupportGroup/`, which is for depressed bronies who looking for help). Some people claim it wasn't a raid because it was only one guy, but that's it: subreddit bans are handled by an automated process. That being said, `/r/bronyhate/`.
+
+There's also the "[Anti Brony Coaliton](https://www.facebook.com/pages/Anti-Brony-Coalition/220769644643883?id=220769644643883&sk=info)", a Facebook group which aims to "expose bronies and their fandom for what they really are as their fad fades away all on its own". They do raise some good points, although most of them can be dismissed as a bunch of hyperboles and sweeping generalizations. Because that's the main problem: the bronies are a very loosely defined group. The only thing you can assume about them is that they like MLP:FIM. But they don't like it in the same way, or for the same reasons, and they don't express themselves in the same ways. For instance, there are indeed people who are into "clop", or MLP-related porn. So what? Also, reading the page, I have this sinking feeling that it's actually maintained by fairly conversative people who think bronies are all child molesters. That, or trolls. Or both. Probably both. And anyway, they're not worth much in the grand scheme of things, with their thousand likes versus 400,000+ for the official _My Little Pony_ page.
+
+### Also known as "demonization"
+
+<a href="http://lazy-joe.deviantart.com/art/Love-and-Tolerate-306242137">
+<img src="http://fc06.deviantart.net/fs70/i/2012/158/a/8/love_and_tolerate_by_lazy_joe-d52bty1.png" style="float:left; margin-right:1em; width:200px; height:auto;" />
+</a>
+
+All in all, it looks like a case of blaming the group for the actions of some of its members. It's true that some bronies are asshats. I'm not trying to excuse them. In fact, I think the brony community should try to do something about that. A core message of the show is "love and tolerate". I translate that as "live and let live". The guy in front of you does not give a shit? Then shut up about it. I'm sure you wouldn't want to be pestered by his love for _Breaking Bad_ or something.
+
+As for the haters themselves, I'm pretty sure their communities will eventually start crumbling, with the main reason being that it's harder to form a community around hating something rather than liking it. Although there's the faint smell of a moral crusade under the anti brony "movement" (I'm using that word lightly, as unlike the MLP fandom, it only exists online), I'm fairly sure it'll die eventually as they start to realize that what they're doing is pointless circle jerking. And anyway, trolls will always be in fewer numbers than more productive members of an online group. As long as this rule remain true, then the trolls cannot win. 
+
+I guess that what I'm saying is that trolls can go suck an howitzer. And that MLP rocks your socks. Give it a try, it's good. And that's the only piece of evangelism you'll hear from me on this blog.
