@@ -9,6 +9,8 @@ tags: [fiction, atfaw]
 
 The man laid there, gravely wounded. Grasping his stomach, he was losing a lot of blood, and he wouldn't last more than a few minutes. He was fully aware of that fact.
 
+<!-- more -->
+
 -- Eh, that's unfortunate.
 
 Dalton stood in front of him. He had nothing but contempt for the wounded man, who had used him as a meat shield for the entirety of the operation. And now that he was about to die, he wasn't even sure he wanted to waste an energy unit from his carbine to end his suffering.
