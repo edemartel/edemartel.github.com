@@ -1,17 +1,19 @@
 ---
 layout: post
 title: "On the subject of hatedoms"
-description: "Or why people hate stuff"
+description: "Or why people love to hate stuff"
 category: On the subject of
 tags: [otso, mlp, toxic]
 ---
 {% include JB/setup %}
 
-So, there's something that fascinates me, and it's toxicity on the Internet (in this context, rude behavior, I'm not talking about downloading a System of a Down album). Since `/r/bronyhate/` got banned recently, I figured I could start with the subject of hatedoms (a portmanteau  of "hate" and "fandom"), which are communities built around hating a particular work (such as a musical band, a film, a game, a television series, etc.), and are therefore the darker side of a "fandom" (which is a group of fans).
+So, there's something that fascinates me, and it's toxicity on the Internet (in this context, rude behavior, I'm not talking about downloading a System of a Down album). Since `/r/bronyhate/` got banned recently, I figured I could start with the subject of hatedoms (a portmanteau  of "hate" and "fandom" -- this has nothing to do with BDSM), which are communities built around hating a particular work (such as a musical band, a film, a game, a television series, etc.), and are therefore the darker side of a "fandom" (which is a group of fans).
 
 **Content Warning:** this article contains ponies.
 
 <!-- more -->
+
+### Exhibit A: _My Little Pony_
 
 <img src="http://4.bp.blogspot.com/-_OLp3Txr8EA/T2ZQL_Wk-kI/AAAAAAAABEQ/W_YLgcXYdd8/s400/HolyFuckingShitPoniesAreAmazing.jpg" style="float:right; margin-left:1em;" />
 So, as a few of you probably know, a _brony_ is an adult (and usually male) fan of _My Little Pony_ (also known as MLP). Although the term is technically used to refers to fans of the entire franchise, most bronies became so with the _Friendship is Magic_ (aka FIM) television series, and don't care much about the toyline, so it's acceptable to consider a brony a fan of FIM and not MLP as a whole. Now, full disclosure, I consider myself a brony. I'll try to remain as objective as possible, but a few biases are probably going to slip by. Apologies in advance, and keep your salt ready, just in case.
@@ -28,10 +30,12 @@ It's true that some bronies are asshats. And I'm fairly sure that at least one b
 
 ### So, what about hatedoms in general?
 
-Haters are mostly trolls that focus their tactics on fans of a particular work. It's very easy to get people angry simply by saying a particular product that they like sucks. Bonus points if you make incredibly ridiculous claims and show shoddy logic. Fanboys will try to convince you of how "wrong" you are and waste a ridiculous amount of time doing so. Congratulations, you are an asshole. Hatedoms make sense because by grouping the trolls together, it's easy to attract bands of fans that will flock to the those communities to argue, thus giving the trolls the attention they need. In short, why go the the fanboy when you can let the fanboy come to you?
+Haters are mostly trolls that focus their tactics on fans of a particular work. It's very easy to get people angry simply by saying that a particular product that they like sucks. Bonus points if you make incredibly ridiculous claims and show shoddy logic. Fanboys will try to convince you of how "wrong" you are and waste a ridiculous amount of time doing so. Congratulations, you are an asshole. Hatedoms make sense because by grouping the trolls together, it's easy to attract bands of fans that will flock to the those communities to argue, thus giving the trolls the attention they need. In short, why go the the fanboy when you can let the fanboy come to you?
 
-As such, the best defense is to ignore them. Hatedoms are usually short lived because it's much harder to form a community around hating something rather than liking it. Although there's the faint smell of a moral crusade under the anti brony "movement" (I'm using that word lightly, as unlike the MLP fandom, it only exists online), I'm fairly sure it'll die eventually as they start to realize that what they're doing is pointless circle jerking.
+There's also another class of haters who dislike something so much that they spend a lot of time finding new ways to criticize it. I never really understood that behavior, as surely it would be simpler to just ignore the work in question and move on instead of sticking on it. Of course, if you think that the work is _morally_ wrong (this is brought up regularly with violent video games), then you might indeed want to go on some sort of crusade to shut it down. But the whole issue of "morality" is a can of worms by itself, and I don't want to go there. At least not yet. Maybe when I'll need to fill my shit stirring quota.
 
-For now, it's best to simply ignore the haters, as what they're doing is no different than any other form of Internet trolling. That being said, I still don't like trolls very much, and I also do not like the attitude of "there's nothing we can do, there'll always be trolls". I think we should make a conscious effort towards ridding our communities of toxic members, although, for now, I have no idea about how we can do that. I'll think about it some more.
+As such, it's best to simply ignore the haters, as what they're doing is no different than any other form of Internet trolling. Then there's crusader-class haters, who are slightly more troublesome to deal with as they're _serious_, and will therefore keep fighting for much longer. I have no idea how to deal with those. I'll think about it some more. But for now, let's just ignore them as well.
 
 As for MLP, give it a try, it's good. And that's the only piece of brony evangelism you'll hear from me on this blog.
+
+So, yeah, I realize this was mostly about MLP. Don't worry, my next article on toxicity will be much more general (and probably devoid of any mention on ponies).
