@@ -1,0 +1,22 @@
+---
+layout: post
+title: "On the subject of warring consoles"
+description: "Or why fighting for corporations is pointless"
+category: On the subject of
+tags: [otso, gaming, business]
+---
+{% include JB/setup %}
+
+So, unless you've been living under a rock during since last spring, you are probably aware that there a new game console generation is upon us. The eight one, to be precise. And while it technically started with the release of Nintendo's Wii U, last fall, in practice we can all agree that the real kickoff of that brand new generation is the release of Sony's PlayStation 4 and Microsoft's Xbox One, sometime within the next few months.
+
+<!-- more -->
+
+Now, before I start this, full disclaimer, lest I be accused of being paid by either Sony or Microsoft: I don't care much about either console. I'm a PC gamer now. The only console exclusive that attracts me in any way is _Destiny_, and that's available for both the PS4 and the Xbone. For the Xbox One, I don't watch TV, and while the Kinect is an incredible piece of hardware, as an input method it suffers heavily from poor understanding by designers, which means that paying an additionnal 100$ for features I won't use seems a bit pointless. As for the PS4, its only real advantage is better indie support, but that's mostly a political decision, so Microsoft can turn around and annihilate that the second they pull their head out of their ass. As such, I'll probably buy a console, but not at launch. I'll wait a year or so. That should give both sides enough time to work out the kinks and release a few interesting titles. Since they both have nearly identical hardware and will probably have incredibly similar game libraries, I'll probably have to flip a coin.
+
+Now that it's out of the way, you might notice I started with a disclaimer. And here's why: this fall will not only start the eight console generation, but also the sixth console _war_. For the record, I've fought in the first, second, third and fourth console wars, all for Nintendo. I was quite the massive fanboy, sporting a state of the art reality distortion field that allowed me to completely disregard any facts that contradicted my beliefs. At first it was easy when the NES and SNES were dominating the market, but the cognitive dissonance was getting harder to avoid when the piece of plastic crap that was the N64 got blasted apart by Sony's vastly superior PlayStation. And let's not talk about the sixth generation and the GameCube's near complete failure. Those memories are a bit painful.
+
+The fact that I once was a fanboy made me a bit critical of other fanboys. It's like those people who quit cigarette and then start bashing smokers. When I see someone defending a product as if their lives depended on it, I cringe, because I see a bit of myself in there.
+
+A few months back, George Weidman of [Super Bunnyhop](http://www.youtube.com/user/bunnyhopshow/) released [a video explaining how he was disappointed in the PS4](http://www.youtube.com/watch?v=IzerU6PVTV8). The comments were flooded with hateful comments, many of them accusing of being an Xbox fanboy, with someone even asking him how much money Microsoft gave him. Later, he posted [a new video doing the same with the Xbox One](http://www.youtube.com/watch?v=23sy6hEEdxQ), and of course, this time the comments were from angry Xbox fans who claimed he was a PS fanboy. It seems that, on the Internet, if you dislike something, you automatically like its competitor. What I'm saying is, you should be able to say that neither console appeals to you without summoning hordes of rabid fans. That said, the part where he shows how _nobody_ is clapping during the Xbox One reveal conference is _hilarious_. 
+
+That made me realize something: with fanboys, it's not a discussion, it's a religious war. Except their religions are faceless corporations who are only interested in getting their money. If you criticize their product of choice, you criticize them personally, and the anonimity given by the Internet means they are free to lash out in any way they want. And, yes, I know that they are simply the vocal minority that lurks on `/r/gaming` and `/v/` and think that they represent "the voice of the gamers", but that doesn't stop them from getting incredibly annoying. 
