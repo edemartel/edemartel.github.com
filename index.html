@@ -11,7 +11,7 @@ I realize this is pretty bare bones right now. Bear with me as I learn the ropes
 
 <div class="posts">
 	{% for post in paginator.posts %}
-	<hr style="margin:16px 0 0 0;" />
+	<hr />
 	<h3 style="line-height:32px">
 		<small>{{ post.date | date_to_string }} // {{ post.category }}</small><br />
 		{{ post.title }}
@@ -23,6 +23,7 @@ I realize this is pretty bare bones right now. Bear with me as I learn the ropes
 </div>
 
 {% if paginator.total_pages > 1 %}
+<hr />
 <div id="post-pagination" class="pagination">
 	<ul class="pages">
 		{% if paginator.previous_page %}
