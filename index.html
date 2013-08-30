@@ -1,0 +1,74 @@
+---
+layout: page
+title: Delirium Corp
+tagline: A variety of ramblings on a variety of subjects
+---
+{% include JB/setup %}
+
+This is my blog. There are many more like it, but this one is mine. If you want to know more about me, check out the <a href="/about.html">about</a> page. Otherwise, <a href="http://www.youtube.com/watch?v=BxHNztg0X3s">kick back, relax, take a load off your mind</a>.
+
+I realize this is pretty bare bones right now. Bear with me as I learn the ropes about Jekyll.
+
+<div class="posts">
+	{% for post in paginator.posts %}
+	<hr style="margin:16px 0 0 0;" />
+	<h3 style="line-height:32px">
+		<small>{{ post.date | date_to_string }} // {{ post.category }}</small><br />
+		{{ post.title }}
+	</h3>
+	<div style="margin-left:1em;">{{ post.excerpt }}
+		<a href="{{ BASE_PATH }}{{ post.url }}">&raquo; Read more / comment...</a>
+	</div>	
+	{% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div id="post-pagination" class="pagination">
+	<ul class="pages">
+		{% if paginator.previous_page %}
+		<li class="prev">
+			{% if paginator.previous_page == 1 %}
+			<a href="/">&larr; Previous</a>
+			{% else %}
+			<a href="{{ paginator.previous_page_path }}">Previous</a>
+			{% endif %}
+			{% else %}
+			<li class="previous disabled">
+				<span>&larr; Previous</span>
+			</li>
+			{% endif %}
+		</li>
+		{% if paginator.page == 1 %}
+			<li class="page disabled">
+				<span>1</span>
+			</li>
+		{% else %}
+			<li class="page">
+				<a href="/">1</a>
+			</li>
+		{% endif %}
+
+		{% for count in (2..paginator.total_pages) %}
+			{% if count == paginator.page %}
+			<li class="page disabled">
+				<span>{{ count }}</span>
+			</li>
+			{% else %}
+			<li class="page">
+				<a href="/page{{ count }}">{{ count }}</a>
+			</li>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+		<li class="next">
+			<a href="{{ paginator.next_page_path }}">Next &rarr;</a>
+		</li>
+		{% else %}
+		<li class="next disabled">
+			<span>Next &rarr;</span>
+		</li>
+		{% endif %}
+	</ul>
+</div>
+{% endif %}
