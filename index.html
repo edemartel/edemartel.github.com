@@ -12,7 +12,7 @@ I realize this is pretty bare bones right now. Bear with me as I learn the ropes
 <div class="posts">
 	{% for post in paginator.posts %}
 	<hr />
-	<h3 style="line-height:32px">
+	<h3 style="line-height:32px;margin-bottom:0.2em;">
 		<small>{{ post.date | date_to_string }} // {{ post.category }}</small><br />
 		{{ post.title }}
 	</h3>
