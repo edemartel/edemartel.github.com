@@ -32,4 +32,6 @@ As Orwell put it, all issues are political issues, and even something as "pure" 
 
 Also, when someone shows you facts that suggest a certain thing, maybe he's not showing you everything. For example, most theories related to "9/11 was an inside job" rely heavily on cherry picking, that is, they only consider a small subset of the data that somehows points towards the point they're trying to make. Which begs the question: if you need to be dishonest in order to get your point across, should you really be considered as "trustworthy"? If you think so, and you back it by saying that your "opponents" are doing the same thing, then I'm afraid I will have to put you in the "head stuck up your ass" category of people I know.
 
-I guess that what I'm saying is that you should read [_Predictably Irrational_](http://en.wikipedia.org/wiki/Predictably_Irrational). It's pretty good.
+So, again, exercise caution on the Internet. What's on there isn't necessarily true, and not because people are trying to manipulate you. And before you jump on the conspiracy bandwagon, ask yourself why you're doing it. I guess that what I'm saying is that you should read [_Predictably Irrational_](http://en.wikipedia.org/wiki/Predictably_Irrational). It's pretty good.
+
+In related news, science is hard. Don't try it at home, kids.
