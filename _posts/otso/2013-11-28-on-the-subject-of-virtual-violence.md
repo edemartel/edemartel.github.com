@@ -7,7 +7,7 @@ tags: [otso, gaming, deep]
 ---
 {% include JB/setup %}
 
-So, there are a bunch of talks that come up once in a while about how violence in video games might be bad because it might turn people into killers by "training" them. If you want my opinion, that's a load of radioactive bullshit. But that's what I want to talk about here, because I'm really sick of all those scare mongering jerkwads bringing the issue up over and over again despite overwhelming scientific evidence to the contrary.
+So, there are a bunch of discussions that come up once in a while about how violence in video games might be bad because it might turn people into killers by "training" them. If you want my opinion, that's a load of radioactive bullshit. But that's not what I want to talk about here, because I'm really sick of all those scare mongering jerkwads bringing the issue up over and over again despite overwhelming scientific evidence to the contrary.
 
 Anyway. I want to talk about the use of violence as a literary device, in the context of interactive media. That's right, good use of violence can make your game a better one! But not always.
 
