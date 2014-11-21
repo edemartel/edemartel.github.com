@@ -27,4 +27,6 @@ I think the cause of all this is the belief that [true art is angsty](http://tvt
 
 So, what should we take from this? Well, don't be inconsistent. You can add drama to humor: it's been done well numerous times, from _EarthBound_ to _Portal_. But you have to be careful, and you should ask yourself: does it add anything to the story? Does it sends mixed messages to the player? And, more importantly, will it look like the development team was fighting with itself to push ideas?
 
-If you're going for a silly over-the-top action parody, go ahead. In fact, go nuts. Don't faff about between ideas. Put your balls on the table and assume what you're aiming for. Tonal dissonance is the result of a cop out.
+If you're going for a silly over-the-top action parody, go ahead. In fact, go nuts. Don't faff about between ideas. Put your balls on the table and assume full responsibility what you're aiming for. Tonal dissonance is the result of a cop out. And you don't want that.
+
+In unrelated news, played a bit of _Broken Age_ recently. Long story short, go preorder it, you cheapskates. 
