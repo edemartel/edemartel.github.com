@@ -31,8 +31,6 @@ The end result is that, no matter how "realistic" these games claim to be, what 
 
 ### Why is this such a big deal?
 
-I guess I wouldn't care if it was supposed to be silly and over the top. I mean, _Doom_ never expected you to think it's high brow. But _Call of Duty_ desperately wants you to think it's something more complex than G.I. Joe. Maybe it was once, in _Call of Duty 4_, but since then it's little more than dumb popcorn entertainment, like those Michael Bay films.
-
-Again, you might think it's not that important. But then, what is? In order to push this medium forward, we need to actually look at what we're doing wrong.
+I'm not saying every game needs to be realistic. However, if you claim to be realistic, like _Battlefield_ does, then you also need to address the above points. If you don't want to, then drop the pretense and admit you're basically just doing _G.I. Joe: Gritty Edition_ or something. I mean, _Doom_ certainly never expected you to think it's high brow. Maybe CoD was once, in _Call of Duty 4_, but since then it's little more than dumb popcorn entertainment, like those Michael Bay films.
 
 In short, you can't have your cake and eat it.
