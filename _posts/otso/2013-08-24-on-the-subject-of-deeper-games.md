@@ -29,7 +29,7 @@ My first recommendation is, [_Spec Ops: The Line_](http://en.wikipedia.org/wiki/
 
 <div style="float:right; margin-left:1em; width:450px; height:auto;">
 	<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=119328386">
-		<img src="http://cloud.steampowered.com/ugc/559837695432622280/4D637464CB660DFE9B10160102885AEB5F6A7A3B/">
+		<img src="http://cloud-4.steampowered.com/ugc/559837695432622280/4D637464CB660DFE9B10160102885AEB5F6A7A3B/">
 	</a>
 </div>
 
