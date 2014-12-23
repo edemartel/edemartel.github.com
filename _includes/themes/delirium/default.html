@@ -9,13 +9,7 @@
     <meta property="og:title" content="{{ page.title | strip_html }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:url" content="http://deliriumcorp.com{{ page.url }}" />
-
-    <meta property="article:author" content="http://deliriumcorp.com/about.html" />
-    <meta property="article:author:first_name" content="Etienne" />
-    <meta property="article:author:last_name" content="de Martel" />
-    <meta property="article:author:username" content="edemartel" />
-    <meta property="article:author:gender" content="male" />
-
+    
 {% if page.path contains '_posts' or page.path contains '_drafts' %}
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:type" content="article" />
@@ -24,9 +18,18 @@
     {% endfor %}
     <meta property="article:published_time" content="{{ page.date }}" />
     <meta property="article:section" content="{{ page.category }}" />
+    <meta property="article:author" content="http://deliriumcorp.com/about.html" />
+{% elsif page.path == 'about.md' %}
+    <meta property="og:type" content="profile" />
+    <meta property="og:description" content="About me" />
+    <meta property="profile:first_name" content="Etienne" />
+    <meta property="profile:last_name" content="de Martel" />
+    <meta property="profile:username" content="edemartel" />
+    <meta property="profile:gender" content="male" />
 {% else %}
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ page.tagline }}" />
+    <meta property="article:author" content="http://deliriumcorp.com/about.html" />
 {% endif %}
 
     <!-- Enable responsive viewport -->
