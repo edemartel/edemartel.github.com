@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
     <meta charset="utf-8">
     <title>{% if page.title != site.title %}{{ page.title | strip_html }} :: {% endif %}{{ site.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -10,13 +10,20 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:url" content="http://deliriumcorp.com{{ page.url }}" />
 
+    <meta property="article:author" content="http://deliriumcorp.com/about.html" />
+    <meta property="article:author:first_name" content="Etienne" />
+    <meta property="article:author:last_name" content="de Martel" />
+    <meta property="article:author:username" content="edemartel" />
+    <meta property="article:author:gender" content="male" />
+
 {% if page.path contains '_posts' or page.path contains '_drafts' %}
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:type" content="article" />
-    <meta property="article:author" content="{{ site.author.name }}" />
     {% for tag in page.tags %} 
     <meta property="article:tag" content="{{ tag }}" /> 
     {% endfor %}
+    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta property="article:section" content="{{ page.category }}" />
 {% else %}
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ page.tagline }}" />
