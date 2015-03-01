@@ -9,13 +9,13 @@ tags: [otso, gaming]
 
 Nostalgia is a finicky thing. If you were never fond of something at one point, you probably won't start to like it right now. Its main function is to smooth over any flaws. While it doesn't make anything better, it does make things seem less bad.
 
-You might be wondering where I'm going with this. Stick with me for a second, I need to give some context.
+You might be wondering where I'm going with this. Stick with me for a second, I need to give some context. If you don't give a shit about that, just read the last line of this article, it's pretty much the TL;DR.
 
 <!-- more -->
 
 The first game I played in my life is _Super Mario Bros_. But aside from that, its two sequels and some of _Blades of Steel_, I did not really get that much mileage out of my NES. No, most of my gaming time as a kid was done on the SNES and then later on on the N64. The first time I was exposed to the _Mega Man_ franchise was with _Mega Man X_. I played _Symphony of the Night_ before the original _Castlevania_. I learned of _Duck Tales_ when Smooth McGroove arranged its moon level theme. And _Zelda II_ remains the only game in the series I didn't try.
 
-So let's just say that I didn't go in _Shovel Knight_ with a nostalgic feeling. I understand the historical context behind it, but I was never a part of it. And that probably explains why _Shovel Knight_ left me mostly tepid. But let me explain myself a bit more.
+So let's just say that I didn't go into _Shovel Knight_ with a nostalgic feeling. I understand the historical context behind it, but I was never a part of it. And that probably explains why _Shovel Knight_ left me mostly tepid. But let me explain myself a bit more.
 
 ### It's shoveling time
 
