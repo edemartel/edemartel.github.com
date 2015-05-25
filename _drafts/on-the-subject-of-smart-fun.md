@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the subject of smart fun"
-description: "Alternate title: on the subject of pretentious idiocy"
+description: "Alternate title: on the subject of pretentious silliness"
 category: On the subject of
 tags: [otso, gaming, reviews]
 ---
@@ -25,15 +25,20 @@ So, if you like shooters, _Bulletstorm_ is a great game. Just skip the cutscenes
 
 Let me start off by saying that _Metal Gear Rising_  has hurt my thumbs quite a lot, and it makes the cardinal sin of following a normal curve for its difficulty before ramping it up right for the final boss. _Dead Space 2_ made the same mistake and I haven't forgiven it yet. I started it, blinked, and seven hours had passed, so I guess it's a good game as well, and I say that as someone who isn't really a fan of hack-and-slash spectacle fighters. Just like _Bulletstorm_, _Metal Gear Rising_ is at its best when it's campy and stupid, although I was surprised to enjoy its story, and more importantly its characters, as much as I did. I would regularly call up Raiden's partners on the codec just to hear what they had to say about the most recent plot development.
 
-Unfortunatly, _Rising_ suffers from what we programmers like to call "legacy", and it is at it's weakest when it tries to be _Metal Gear Solid_. MGS as a franchise has never been really sophisticated. It does ask some interesting questions, but it's also sometimes preachy and pretentious. _Rising_'s story works best when it's standalone, but sometimes it tries to refer to events from real life  or the rest of the _Metal Gear_ franchise, and that's when it breaks down. Sure, patented MGS anti-war message is there too, but it's not subtle, it's not elegant, and it just feels forced, as if the writers had to meet a _Metal Gear_ quota to be able to put the name on the box.
+Unfortunatly, _Rising_ suffers from what we programmers like to call "legacy", and it is at it's weakest when it tries to be _Metal Gear Solid_. MGS as a franchise has never been really sophisticated. It does ask some interesting questions, but it's also sometimes preachy and pretentious. _Rising_'s story works best when it's standalone, but sometimes it tries to refer to events from real life  or the rest of the _Metal Gear_ franchise, and that's when it breaks down. Sure, the patented MGS anti-war message is there too, but it's not subtle, it's not elegant, and it just feels forced, as if the writers had to meet a _Metal Gear_ quota to be able to put the name on the box.
 
-And again, the same brutal shift in tone happens, except this time it's worse because it's not only in cutscenes, so you can't dodge them by just skipping them. But even then it's pretty easy to ignore. Just engage your Anti-Cringe Shield and get slicing.
+And again, the same brutal shift in tone happens, except this time it's worse because it's not only in cutscenes, so you can't dodge them by just skipping them. It will jarringly alternate between the silly over-the-top antics of Raiden the cyborg ninja and Bladewolf the robot canine to a plot about a PMC harvesting the organs of orphans. And the final boss is one of the most out of place things ever pulled out of a writer's ass this side of _Final Fantasy VIII_'s _Ragnarok_. Don't get me wrong, it's fun as hell. I just think it should shut up a bit if it doesn't have anything interesting to say. 
+
+If you like spectacle fighters, go ahead. Just make sure you grab your pile of salt and increase your level of suspension of disbelief before you get slicing.
 
 ### The bottom line
 
 The problem I have with those two examples is that in both cases, I feel like the developers couldn't make up their mind on what they wanted. Blending comedy and drama, or camp with tragedy, has been done before with great success. Making your work ostensibly silly will make any emotional sucker punch hit harder. On the other side, lightening up an otherwise serious story with some comic relief can help smooth out the pacing. But you have to be careful with it: if you constantly switch between the two without any sense or direction, you end up with a schizophrenic mess that becomes hard to follow.
 
-In _Bulletstorm_'s case, my feeling is that some people on the development team wanted to make Art, and since True Art is angsty, they made it so, with little to no regard for consistency with what the rest of the team was doing. As for _Rising_, I think it's really an issue of trying to be more like _Metal Gear_, without realizing that it wouldn't fit.
+I don't know why that is. Maybe it's the misguided notion that True Art is angsty. Or that seriousness is required for a work aimed at adults, as if only children were allowed to enjoy lighter stuff. Because a AAA game needs a lot of sales to be viable, major publishers prefer to go for mass market appeal by making easy to digest entertainment. As a result, I see a lot of people try to shoehorn drama in something that would otherwise be dumb. There's nothing inherently wrong in attempting more something more severe, but everyone on the team needs to be on board with that plan, otherwise you end up with something inconsistent, which is exactly _Bulletstorm_'s and _Rising_'s problem. Another example of this phenomenon is the otherwise exellent horror game franchise _Dead Space_, which is as ridiculous as _Evil Dead_ despite claiming to be as serious as _Alien_.
 
-You shouldn't try to shoehorn drama in something silly just because you want your work to be accepted. Most people don't care if what you make is stupid, as long as you are fully aware of what you're doing. That's why critics panned _Transformers_ but liked _Tremors_. In short: do what you want, but don't compromise.
+Look, not every work needs to be deep. Not every work needs to challenge its audience. Not every work needs to ask tough questions. Not every work needs to depict heavy themes. A light hearted adventure will do just fine if it's well executed. I don't care if what you make is stupid, as long as you are fully aware of what you're doing, and you show it.
 
+In short: do what you want, but don't compromise. Compromising is what's ruining it. But anyway, as I said at the start, it's more of a pet peeve. It's never really a big deal, but since it's something I keep seeing, I figured I might as well leave it there, so that when the world realizes it's a bad idea, I can go and say "ha, I told you!"
+
+Because that's definitely how things work, right.
