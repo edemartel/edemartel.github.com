@@ -23,9 +23,9 @@ Dalton nodded. His current plan was to simply turn around and walk out of this d
 -- Look, I have a request...<br />
 -- You almost got me killed _three times_. I don't think you're in a position to ask something to me.<br />
 -- It's not for me! It's for everyone!<br />
--- I don't care about "everyone". I'm from here. I'm not even from this world. Why should I risk my life?
+-- I don't care about "everyone". I'm not from here. I'm not even from this world. Why should I risk my life?
 
-The man coughed. There as blood on his palm. It was becoming increasingly harder for him to stay conscious. But he had to make his request. He had to.
+The man coughed. There was blood on his palm. It was becoming increasingly harder for him to stay conscious. But he had to make his request. He had to.
 
 -- Please, hear me out. As my final wish.
 
@@ -34,7 +34,7 @@ Despite having no reason to accept, Dalton figured he could at least listen.
 -- Go on.<br />
 -- Right. Look, the wasteland outside? Did you ever wonder how can a desert have such fertile land and so much rain?<br />
 -- I did not pause to taste the earth, no.<br />
--- It's artificial. A thousand year ago there was a forest here. Then the Old Ones disappeared, and without proper maintenance their darkstone plant broke down and started leaking radiation.
+-- It's artificial. A thousand years ago there was a forest here. Then the Old Ones disappeared, and without proper maintenance their darkstone plant broke down and started leaking radiation.
 
 Dalton did not like that piece of information.
 
@@ -54,7 +54,7 @@ The man stopped talking as he was hit by another coughing fit.
 
 And then he stopped moving. Looking at him, Dalton realized he never knew his name. But it was too late for that now. He turned around and looked at the floor below. The darklings were still blocking the way to the center of the plant, where the control center was located. The exit was in the opposing direction. He could probably easily sneak his way out and get as far away as possible from this forsaken building. Get to his employer. Make him honor his end of the deal. 
 
-And yet... he kept thinking about what the man had said. He shook his head. He wasn't a hero. He was just an earthling, lost in another dimension. He was way over his head. Could he really make a difference? Nobody would know he did it, but still? As he stood there, he felt that he could really use a second opinion right now. But the man was dead, and his symbiote didn't talk much.
+And yet... he kept thinking about what the man had said. He shook his head. He wasn't a hero. He was just an earthling, lost in another dimension. He was way in over his head. Could he really make a difference? Nobody would know he did it, but still? As he stood there, he felt that he could really use a second opinion right now. But the man was dead, and his symbiote didn't talk much.
 
 He let out a long sigh and shot a glance at the dead man's body. 
 
