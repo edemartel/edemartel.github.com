@@ -49,7 +49,7 @@ But there's also something else: FFVII is the peak of the series. Each game afte
 
 Which is probably why people got excited with the announce of a remake and not just a rerelease. _Final Fantasy_ fans have had blue balls for 18 years now, and as of now they'll jump on anything that's marginally better than it. And since Square Enix can't make a good game anymore, then a remake is pretty much their only option. In the end, I think it's not necessarily hype for FFVII, but more like hype for something good coming out of that sausage factory. The nostalgia factor just amplifies the feeling.
 
-### A moment of silence of Squeenix
+### A moment of silence for Squeenix
 
 Which leads us back to this article's subtitle: "Or why we should feel sorry for Square Enix". If Squeenix were a band, they'd be a bunch of washed up has-beens that puts out new material that nobody cares about whilst the diehard fans keep asking for them to play their old hits. They don't know how to make good games anymore. Anything interesting that carry the Square Enix name has been made outside of Japan, either by Crystal Dynamics, IO Interactive or Eidos Montreal. They manage to survive only because their brand recognition guarantees some market share. And whenever they try to pull themselves out of that rut by mixing things up, they just ending up making a mess.
 
@@ -59,4 +59,4 @@ So, again, just because it's a remake doesn't mean you should resort to blind hy
 
 Wait, 15$ for a 18 year old game? How fucking greedy are they?
 
-Ah man, who wants to bet they'll sell DLC to add back Aerith in your party?
+Ah man, who wants to bet they'll sell DLC to add Aerith back in your party?
