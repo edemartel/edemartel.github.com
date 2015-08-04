@@ -21,6 +21,6 @@ As you can see on the right, I'm a fairly good contributor to [Stack Overflow](h
 
 I'm also [@edemartel](http://twitter.com/edemartel) on Twitter, believe it or not. Feel free to follow me. Or not. It's up to you. I mostly just retweet stuff from more interesting people anyway.
 
-Also, I sometimes [recommend games on Steam](http://steamcommunity.com/id/icekeese/recommended/). As a rule of thumb, if a game is there, it deserves to played.
+Also, I sometimes [recommend games on Steam](http://steamcommunity.com/id/zesmith/recommended/). As a rule of thumb, if a game is there, it deserves to played.
 
 Also, Rainbow Dash is best pony. [Deal with it](http://www.youtube.com/watch?v=omFG-MHqWw4).
