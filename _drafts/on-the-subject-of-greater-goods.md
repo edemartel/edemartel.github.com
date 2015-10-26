@@ -19,7 +19,7 @@ But really, why are so many people eager to give money to great causes? My perso
 
 Now, I'm not a huge fan of charities as a way to fix systemic issues. As a social democrat, I think it's the government's job to address problems that affect all of society, in areas such as education, healthcare, utilities, etc. I really think the welfare state is a positive thing that can, when implemented properly, end up raising the standard of living of everyone. Asking people to donate to charities in such domains is, as we call in software development, a hack. It's a short term solution to a complex problem that is not meant to hold for long. But, just like hacks quite often end up in production, some critical sectors of society end up requiring donations to operate as our governments do not invest enough money in them.
 
-So, that's why I give. Because it's not like the people in need have any other option. I donate to Greenpeace, to Doctors Without Borders, to the Canadian Red Cross, and a variety of other organizations and groups. And sometimes, I don't just share money. I also share some of my time. 
+So, that's why I give. Because it's not like the people in need have any other option. I donate to Greenpeace, to Doctors Without Borders, to the Canadian Red Cross, and a variety of other organizations and groups. And sometimes, I don't just share some of my money. I also share some of my time. 
 
 ### Extra Life 2014 with Team Ze: the post-mortem
 
@@ -29,11 +29,11 @@ I learned about the existence of Extra Life last year, about two weeks before th
 
 In the end, it was a pretty fun experiences, although things got really difficult near the end. But on we marched, and we ended the streaming with a great feeling of accomplishment. It was far from perfect, however. The lack of real preparation really hurt the whole thing, and having more than one stream to watch probably confused some viewer. 
 
-But since we're not the kind of people who quit, we're doing it again this year.
+But since we're not the kind of people who quit, we're doing it again this year. And we're going bigger.
 
 ### Onward to victory!
 
-Oh, but we got more ambitious this time. Firstly, two other guys are going to join us, so we're gonna be a 4-man team. Instead of being each on our own like last time, we're doing it LAN-style. We're planning to stream many more games than before, and some of them might even be console games. And our streaming setup is going to be slightly more elaborate. In the end, we're hoping to reach a sufficient amount of hype to get donations, all in the benefit of Opération Enfant Soleil.
+You see, we got more ambitious this time. Firstly, two other guys are going to join us, so we're gonna be a 4-man team. One of them mentionned that it would be an infinitely superior experience if, instead of being each on our own like last time, we were all sitting in the same room and doing it LAN-style. We agreed, so expect to see four men on a couch or in front of PCs, shouting idiocies and trying a bit too hard to be funny. We're planning to stream many more games than before, and some of them might even be console games. And our streaming setup is going to be slightly more elaborate, so that you can get all you the content you need by watching a single stream. In the end, we're hoping to reach a sufficient amount of hype to get donations, all in the benefit of Opération Enfant Soleil.
 
 Our hope is to make an even greater event and get people talking excitedly about it. Having all the participants in the same room will probably help with that, in the sense that it'll make the entire event more interesting and entertaining.
 
