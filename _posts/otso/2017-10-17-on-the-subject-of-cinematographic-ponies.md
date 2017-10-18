@@ -7,7 +7,7 @@ tags: [otso, mlp]
 ---
 {% include JB/setup %}
 
-Those of you who know me enough also know that [I'm a fan of](/2013/08/17/on-the-subject-of-hatedoms/) _My Little Pony: Friendship is Magic_. And so, naturally, I went to see _My Little Pony: The Movie_ last week instead of _Blade Runner 2049_. Don't worry, I'll go see it eventually.
+Those of you who know me enough also know that [I'm a fan of](/2013/08/17/on-the-subject-of-hatedoms/) _My Little Pony: Friendship is Magic_. And so, depressingly, I went to see _My Little Pony: The Movie_ on its opening day instead of _Blade Runner 2049_. Don't worry, I'll go see it eventually.
 
 Back to the ponies. In short, that film left me quite disappointed, to say the least. I'd go so far as to say that it pretty much shits on everything that makes the series great, and doesn't offer anything else in return, with the possible exception of its animation and music... but even that has issues. If you'd like to know more, of more accurately you don't have anything better to do than to see a grown man rant about a film ostensibly made to sell toys to little girls, well, read on.
 
